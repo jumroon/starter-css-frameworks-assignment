@@ -43,3 +43,34 @@ footer{
 margin-top: 20px;
 }
 
+
+
+/* @media all and (min-width: 480px){
+  header{
+  display: flex;
+  padding: 0px;
+  }
+  
+  .jumbotron{
+    display: flex;
+  }
+
+  header nav ul{
+  align-items: center;
+  }
+  
+  .group{
+    align-items: center;
+  flex-direction: row;
+  }
+
+  .card-deck {
+  flex-direction: column;
+}
+
+.card img{
+  max-width: 100%;
+}
+
+  
+  } */
